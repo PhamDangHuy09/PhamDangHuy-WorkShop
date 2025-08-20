@@ -21,4 +21,4 @@ Key Advantages of Optimizing AWS Batch with Mixed Instance Types:
 - Applicable Across Industries – Ideal for big data analytics, scientific simulations, AI/ML training, video rendering, and image processing.
   
 By implementing this strategy, organizations can achieve high performance, substantial cost reductions, and improved resilience when Spot capacity is unavailabe
-![clean](/images/6.clean/sodocautruc.png)
+![clean](./images/6.clean/sodocautruc.png)
